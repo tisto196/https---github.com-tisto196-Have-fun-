@@ -1,0 +1,17 @@
+table tag --------- used to create table
+
+tr -------- table row
+
+now coloumn is there in html
+
+the rows are arranged one by one to create column
+
+thead for head table tag
+
+th ----  used
+
+tbody ----for table body
+
+tfoot  -  for table foot
+
+cell spacing  --- attribute
